@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "Freight";
+  src: local("Freight"),
+    url("resources/fonts/Freight/FreightTextProMedium-Regular.woff")
+      format("woff");
+}
+@font-face {
+  font-family: "Avenir";
+  src: local("Avenir"),
+    url("resources/fonts/AvenirLTStd-Black.woff") format("woff");
+}
+@font-face {
+  font-family: "FreightProBook";
+  src: local("FreightPro"),
+    url("resources/fonts/FreightTextProWoff/FreightTextPro_Book-Regular.woff")
+      format("woff");
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  font-family: "Freight";
+  font-size: 18px;
+}

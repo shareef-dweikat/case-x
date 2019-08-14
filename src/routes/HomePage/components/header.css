@@ -1,0 +1,15 @@
+.nav-link{
+  text-decoration: none;
+  color: white
+ }
+
+.activeList{
+color: gold
+}
+
+.moving-nav-link{
+color: black;
+text-decoration: none;
+
+}
+

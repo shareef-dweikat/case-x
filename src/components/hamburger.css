@@ -1,0 +1,15 @@
+@font-face {
+  font-family: 'HelveticaNeue';
+  font-style: normal;
+  font-weight: 400;
+  src:
+    local('HelveticaNeue'),
+    local('HelveticaNeue'),
+    url(../fonts/HelveticaNeue-CondensedObl.otf) format('otf'),
+    /* url(../fonts/HelveticaNeue-CondensedObl.otf) format('otf'); */
+}
+
+.p{
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
